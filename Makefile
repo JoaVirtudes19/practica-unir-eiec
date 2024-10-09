@@ -5,3 +5,4 @@ run:
 
 run_without_docker:
 	python3 main.py palabras.txt yes yes
+
